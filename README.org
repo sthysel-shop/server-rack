@@ -1,0 +1,14 @@
+#+title: Wooden server rack
+
+One of the generally more useful cobbles. Coblineerd to house 2 old 4U server
+racks, one now used as main dev machine. Made from leftover panels used to make
+the office desk.
+
+#+caption: Side
+[[file:pics/side.jpg]]
+
+#+caption: Front
+[[file:pics/front.jpg]]
+
+#+caption: Wide
+[[file:pics/wide.jpg]]
